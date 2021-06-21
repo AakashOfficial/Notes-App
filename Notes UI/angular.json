@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "notes-ui"
+    }
+  },
+  "defaultProject": "notes-ui",
+  "cli": {
+    "analytics": false
+  }
 }
